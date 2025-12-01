@@ -207,8 +207,8 @@ class MedicalDictionaryScraper:
 def main():
     """Example usage of the scraper."""
     # Login credentials
-    EMAIL = "golam.arnob@helsinki.fi"
-    PASSWORD = "IytUwYxNMZMy"
+    EMAIL = ""
+    PASSWORD = ""
     
     # Example search terms
     search_terms = ["Kirjasto", "lääkäri", "Sydän", "lentokone"]
